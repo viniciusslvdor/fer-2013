@@ -1,1 +1,12 @@
 envs.toml
+.env
+
+data/external/
+data/processed/
+
+__pycache__/
+__pycache__
+*.pyc
+
+
+uv.lock
